@@ -72,15 +72,15 @@ int voltage = 0;
 //int current = 0;
 // added by lefteris Iliadis -END
 
-int new_speed = 150;
-int new_battery = 50;
-int new_temperature = 35;
+int new_speed = 0;
+int new_battery = 0;
+int new_temperature = 0;
 int new_fan_state = 0;
 int new_bt_state = 0;
 int new_ride_time = 0;
 int new_distance = 0;
 int new_top_speed = 0;
-int new_voltage = 99999;
+int new_voltage = 0;
 //int new_current = 999;
 
 char charSpeed[3] = "";
